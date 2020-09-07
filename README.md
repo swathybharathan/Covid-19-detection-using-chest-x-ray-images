@@ -8,3 +8,6 @@ Step 2: After creating two folders we will merge the images and set the labels
 Step 3: Developing a quality assessment model. Then we will split that into training and testing set and creating a VGG model that will predict the data.
 Step 4: Construct a fully connected layer and append it on the top of the VGG model.
 Step 5: Training and experimentation on datasets
+
+
+Tools: Python 3.8, Jupyter Notebook
